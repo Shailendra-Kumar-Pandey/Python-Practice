@@ -5,8 +5,9 @@ for i in range(5):
     print(f"Iteration {i + 1}") 
 
 
+j = 0
 
 
-
-
+for j in range(10):
+    print(f"Iteration {j / 2}")
 
