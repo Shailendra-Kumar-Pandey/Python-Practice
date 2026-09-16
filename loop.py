@@ -19,3 +19,16 @@ name = "Python"
 
 for letter in name:
     print(letter)
+
+
+languages = ["Python", "JavaScript", "Java"]
+
+for language in languages:
+    print(language)
+
+
+count = 1
+
+while count <= 5:
+    print(count)
+    count = count + 1
