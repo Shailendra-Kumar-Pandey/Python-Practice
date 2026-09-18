@@ -18,3 +18,22 @@ while count < 3:
 
 if count == 3:
     print("Too many failed attempts. Please try again later.")
+
+
+
+# if       → check a condition
+# elif     → check another condition
+# else     → otherwise
+
+# for      → repeat/iterate
+# while    → repeat while condition is true
+
+# break    → completely stop loop
+# continue → skip current iteration
+
+# ==       → compare equality
+# =        → assign value
+
+# and      → both conditions
+# or       → at least one condition
+# not      → reverse condition
